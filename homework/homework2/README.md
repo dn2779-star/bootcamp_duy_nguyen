@@ -1,4 +1,4 @@
-# Stage 01 Homework
+# Stage 02 Homework
 
 In this homework I learned to:
 
